@@ -7,10 +7,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference
-            Include="ArtemisRGB.UI.Shared"
-            IncludeAssets="compile;build"
-            Version="1.0.0-master.20220930.8" />
+        <PackageReference Include="ArtemisRGB.UI.Shared" IncludeAssets="compile;build" Version="1.0.0-master.20220930.8" />
+        <PackageReference Include="kadmium-sacn" Version="3.0.1" />
     </ItemGroup>
 
     <ItemGroup>
