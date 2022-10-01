@@ -1,0 +1,15 @@
+{
+    "Guid": "3305A58F-5704-4B46-805C-1F2C5AC643B9",
+    "Name": "E1.31Receiver",
+    "Description": "E1.31Reciver layerbrush",
+    "Author": "DJMalachite + Steveplays28",
+    "Website": "",
+    "Repository": "https://github.com/DJMalachite/Artemis.Plugins/tree/main/src",
+    "Icon": "QuestionMark",
+    "Version": "1.0.0.0",
+    "Main": "Artemis.Plugins.LayerBrushes.E1._31.dll",
+    "AutoEnableProperties": true,
+    "RequiresAdmin": false,
+    "Platforms": "Windows,Linux,OSX",
+    "Api": "1.0.0"
+}
