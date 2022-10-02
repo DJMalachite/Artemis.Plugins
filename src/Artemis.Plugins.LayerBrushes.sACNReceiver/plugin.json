@@ -5,7 +5,7 @@
     "Author": "DJMalachite + Steveplays28",
     "Website": "",
     "Repository": "https://github.com/DJMalachite/Artemis.Plugins",
-    "Icon": "QuestionMark",
+    "Icon": "TrackLight",
     "Version": "1.0.0.0",
     "Main": "Artemis.Plugins.LayerBrushes.sACNReceiver.dll",
     "AutoEnableProperties": true,
