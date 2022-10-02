@@ -1,8 +1,8 @@
 using Artemis.Core;
 
-namespace Artemis.Plugins.LayerBrushes.E1._31.PropertyGroups;
-
-public class E1.31PropertyGroup : LayerPropertyGroup
+namespace Artemis.Plugins.LayerBrushes.E1._31Receiver.PropertyGroups
+{
+    public class E1.31ReceiverPropertyGroup : LayerPropertyGroup
 {
     protected override void PopulateDefaults()
     {
@@ -15,4 +15,4 @@ public class E1.31PropertyGroup : LayerPropertyGroup
     protected override void DisableProperties()
     {
     }
-}
+}}

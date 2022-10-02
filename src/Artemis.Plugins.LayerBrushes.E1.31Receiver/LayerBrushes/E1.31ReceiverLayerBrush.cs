@@ -1,11 +1,11 @@
 using Artemis.Core.LayerBrushes;
-using Artemis.Plugins.LayerBrushes.E1._31.PropertyGroups;
+using Artemis.Plugins.LayerBrushes.E1._31Receiver.PropertyGroups;
 using SkiaSharp;
 using System.IO;
 
-namespace Artemis.Plugins.LayerBrushes.E1._31.LayerBrushes
+namespace Artemis.Plugins.LayerBrushes.E1._31Receiver.LayerBrushes
 {
-    public class E1.31LayerBrush : LayerBrush<E1.31PropertyGroup>
+    public class E1.31ReceiverLayerBrush : LayerBrush<E1.31ReceiverPropertyGroup>
 {
     public override void EnableLayerBrush()
     {
