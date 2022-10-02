@@ -1,7 +1,7 @@
 using Artemis.Core;
 using Artemis.UI.Shared;
 
-namespace Artemis.Plugins.LayerBrushes.E1._31Receiver
+namespace Artemis.Plugins.LayerBrushes.sACNReceiver
 {
     public class Bootstrapper : PluginBootstrapper
     {
