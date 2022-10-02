@@ -21,4 +21,5 @@ jobs:
       - name: Upload
         uses: actions/upload-artifact@v3
         with:
+          name: sACNReceiver
           path: src/Artemis.Plugins.LayerBrushes.sACNReceiver/bin/x64/Release/net6.0/publish
