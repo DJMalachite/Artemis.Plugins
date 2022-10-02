@@ -8,7 +8,7 @@ namespace Artemis.Plugins.LayerBrushes.sACNReceiver
     {
         public override void Enable()
         {
-            RegisterLayerBrushDescriptor<CustomLayerBrush>("Custom layer brush", "Custom layer brush", "QuestionMark");
+            RegisterLayerBrushDescriptor<CustomLayerBrush>("sACNReceiver", "sACNReceiver", "TrackLight");
         }
 
         public override void Disable()
